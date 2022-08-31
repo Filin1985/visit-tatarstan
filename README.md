@@ -12,4 +12,4 @@
 - Grid
 - Responsive Design
 
-[Ссылка на проект](https://melodious-fairy-05178f.netlify.app/)
+[Ссылка на проект](https://filin1985.github.io/visit-tatarstan/)
